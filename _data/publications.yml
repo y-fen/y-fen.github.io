@@ -14,6 +14,20 @@ main:
     page: https://doi.org/10.1117/1.JBO.29.1.016006
     notes: SFDI
     image: ./assets/img/jsen.jpg
+  - title: Spatial frequency domain imaging system using a scanning micro-mirror
+    authors: Kenta Nakazawa, <strong>Yu Feng</strong>, Koki Masuda, Keita Yasutomi, Shoji Kawahito, Futoshi Iwata, and Keiichiro Kagawa
+    conference_short: JSNA
+    conference: Sensors and Actuators A Physical, Vol. 387, 1 June 2025, 116421 (March 2025).
+    page: https://doi.org/10.1016/j.sna.2025.116421
+    notes: SFDI MEMS 
+    image: ./assets/img/jsen.jpg
 
+  - title: Resolving Multi-Path Interference in Compressive Time-of-Flight Depth Imaging with a Multi-Tap Macro-Pixel Computational CMOS Image Sensor
+    authors: Masaya Horio, <strong>Yu Feng</strong>, Tomoya Kokado, Taishi Takasawa, Keita Yasutomi, Shoji Kawahito, Takashi Komuro, Hajime Nagahara, and Keiichiro Kagawa
+    conference_short: Sensors
+    conference: Sensors 2022, 22, 2442 (March, 2022).
+    page: https://doi.org/10.3390/s22072442
+    notes: ToF
+    image: ./assets/img/jsen.jpg
 
 
