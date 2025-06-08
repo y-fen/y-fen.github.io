@@ -5,29 +5,29 @@ main:
     journal: IEEE Sensors Journal, 2025.
     pdf: https://doi.org/10.1109/JSEN.2025.3557801
     bibtex: https://doi.org/10.1109/JSEN.2025.3557801
-    notes: —
-    image: ./assets/img/teaser_hdr_4tap.png
+    notes: 
+    image: #./assets/img/teaser_hdr_4tap.png
 
   - title: "Motion‑resistant three‑wavelength spatial frequency domain imaging system with ambient light suppression using an 8‑tap CMOS image sensor"
     authors: **Yu Feng** et al.
     journal: Journal of Biomedical Optics, 29 (1):016006, Jan 2024.
     pdf: https://doi.org/10.1117/1.JBO.29.1.016006
     bibtex: https://doi.org/10.1117/1.JBO.29.1.016006
-    notes: —
-    image: ./assets/img/teaser_sfdI_8tap.png
+    notes: 
+    image: #./assets/img/teaser_sfdI_8tap.png
 
   - title: "Spatial frequency domain imaging system using a scanning micro‑mirror"
     authors: Kenta Nakazawa, **Yu Feng** et al.
     journal: Sensors and Actuators A: Physical, 387:116421, Jun 2025.
     pdf: https://doi.org/10.1016/j.sna.2025.116421
     bibtex: https://doi.org/10.1016/j.sna.2025.116421
-    notes: —
-    image: ./assets/img/teaser_mirror_sfdI.png
+    notes: #—
+    image: #./assets/img/teaser_mirror_sfdI.png
 
   - title: "Resolving Multi‑Path Interference in Compressive Time‑of‑Flight Depth Imaging with a Multi‑Tap Macro‑Pixel Computational CMOS Image Sensor"
     authors: Horio Masaya, **Yu Feng** et al.
     journal: Sensors, 22:2442, Mar 2022.
     pdf: https://doi.org/10.3390/s22072442
     bibtex: https://doi.org/10.3390/s22072442
-    notes: —
-    image: ./assets/img/teaser_tof_macro.png
+    notes: #—
+    image: #./assets/img/teaser_tof_macro.png
