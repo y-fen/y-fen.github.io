@@ -1,20 +1,36 @@
 main:
 
   - title: Programmable Dynamic Range HDR Imaging with LED-Flicker and Motion Artifact Mitigation Using a Four-Tap CMOS Image Sensor
-    authors: <strong>Yu Feng</strong>, Keiichiro Kagawa, Kamel Mars, Keita Yasutomi, Shoji Kawahito
+    authors: <strong>Yu Feng</strong>, Keiichiro Kagawa, Kamel Mars, Keita Yasutomi, and Shoji Kawahito
     conference_short: IEEE sensors
     conference: IEEE Sensors Journal vol. 25, no. 10, pp. 18302-18311 (March 2025).
     page: https://doi.org/10.1109/JSEN.2025.3557801
     image: ./assets/img/jsen.jpg
-    #notes: #Early Accept
+    notes: HDR
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Motion-resistant three-wavelength spatial frequency domain imaging system with ambient light suppression using an 8-tap CMOS image sensor
+    authors: <strong>Yu Feng</strong>, Chen Cao, Yuto Shimada, Keita Yasutomi, Shoji Kawahito, Gordon T. Kennedy, Anthony J. Durkin, and Keiichiro Kagawa
+    conference_short: JBO
+    conference: Journal of Biomedical Optics, Vol. 29, Issue 1, 016006 (January 2024).
+#    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    page: https://doi.org/10.1117/1.JBO.29.1.016006
+    notes: SFDI
+    image: ./assets/img/jsen.jpg
+
+  - title: Spatial frequency domain imaging system using a scanning micro-mirror
+    authors: Kenta Nakazawa, <strong>Yu Feng</strong>, Koki Masuda, Keita Yasutomi, Shoji Kawahito, Futoshi Iwata, and Keiichiro Kagawa
+    conference_short: JSNA
+    conference: Sensors and Actuators A: Physical, Vol. 387, 1 June 2025, 116421 (March 2025).
+#    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    page: https://doi.org/10.1016/j.sna.2025.116421
+    notes: SFDI MEMS 
+    image: ./assets/img/jsen.jpg
+
+  - title: Resolving Multi-Path Interference in Compressive Time-of-Flight Depth Imaging with a Multi-Tap Macro-Pixel Computational CMOS Image Sensor
+    authors: Masaya Horio, <strong>Yu Feng</strong>, Tomoya Kokado, Taishi Takasawa, Keita Yasutomi, Shoji Kawahito, Takashi Komuro, Hajime Nagahara, and Keiichiro Kagawa
+    conference_short: Sensors
+    conference: Sensors 2022, 22, 2442 (March, 2022).
+#    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    page: https://doi.org/10.3390/s22072442
+    notes: ToF
+    image: ./assets/img/jsen.jpg
