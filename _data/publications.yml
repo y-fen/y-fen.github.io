@@ -12,7 +12,6 @@ main:
     authors: <strong>Yu Feng</strong>, Chen Cao, Yuto Shimada, Keita Yasutomi, Shoji Kawahito, Gordon T. Kennedy, Anthony J. Durkin, and Keiichiro Kagawa
     conference_short: JBO
     conference: Journal of Biomedical Optics, Vol. 29, Issue 1, 016006 (January 2024).
-#    pdf: https://arxiv.org/pdf/2002.10211.pdf
     page: https://doi.org/10.1117/1.JBO.29.1.016006
     notes: SFDI
     image: ./assets/img/jsen.jpg
@@ -21,7 +20,6 @@ main:
     authors: Kenta Nakazawa, <strong>Yu Feng</strong>, Koki Masuda, Keita Yasutomi, Shoji Kawahito, Futoshi Iwata, and Keiichiro Kagawa
     conference_short: JSNA
     conference: Sensors and Actuators A: Physical, Vol. 387, 1 June 2025, 116421 (March 2025).
-#    pdf: https://arxiv.org/pdf/2002.10211.pdf
     page: https://doi.org/10.1016/j.sna.2025.116421
     notes: SFDI MEMS 
     image: ./assets/img/jsen.jpg
@@ -30,7 +28,6 @@ main:
     authors: Masaya Horio, <strong>Yu Feng</strong>, Tomoya Kokado, Taishi Takasawa, Keita Yasutomi, Shoji Kawahito, Takashi Komuro, Hajime Nagahara, and Keiichiro Kagawa
     conference_short: Sensors
     conference: Sensors 2022, 22, 2442 (March, 2022).
-#    pdf: https://arxiv.org/pdf/2002.10211.pdf
     page: https://doi.org/10.3390/s22072442
     notes: ToF
     image: ./assets/img/jsen.jpg
