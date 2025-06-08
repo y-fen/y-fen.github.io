@@ -16,8 +16,6 @@ I am a Ph.D. candidate in Nanovision Technology at Shizuoka University in Hamama
 
 - **[Jun. 2025]** Our confernce paper on ambient-light-robust SFDI was accepted to *ECOB 2025*.  
 - **[Jun. 2025]** Our confernce paper on an HDR imaging system for biomedical applications was accepted to *IISW 2025*.  
-- **[Mar. 2025]** Our paper on charge-splitting HDR imaging was accepted for publication in *IEEE Sensors*.  
-- **[Mar. 2025]** Our paper on MEMS-based SFDI system was accepted for publication in *Sensors and Actuators A: Physical*.
 
 {% include_relative _includes/publications.md %}
 
