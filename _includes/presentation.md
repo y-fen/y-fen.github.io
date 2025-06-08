@@ -3,17 +3,17 @@
 ### 🌏 International Conferences (Oral)
 
 1. Room-Light Operation of a Three-Wavelength Spatial Frequency Domain Imaging System Using Pulsed Illumination and an 8-Tap CMOS Image Sensor  
-   **Yu Feng** et al., European Conference on Biomedical Optics 2025, Munich, Germany (June 2025)
+   **Yu Feng** et al., *European Conference on Biomedical Optics 2025*, Munich, Germany (June 2025)
 
 2. Programmable Dynamic Range Extension up to 110 dB Based on Charge-Splitting Method with 4-Tap CMOS Image Sensor  
-   **Yu Feng** et al., 2025 International Image Sensor Workshop, Hyogo, Japan (June 2025)
+   **Yu Feng** et al., *2025 International Image Sensor Workshop*, Hyogo, Japan (June 2025)
 
 3. Multi-tap CMOS Image Sensor with Programmable Functional Exposure: Application to Structured Light Based Quantitative Tissue Imaging  
-   **Yu Feng** et al., The Optica Imaging Congress 2024, Toulouse, France (July 2024)
+   **Yu Feng** et al., *The Optica Imaging Congress 2024*, Toulouse, France (July 2024)
    [https://doi.org/10.1364/ISA.2024.IF4D.2](https://doi.org/10.1364/ISA.2024.IF4D.2)
 
 5. Demonstration of motion-resistant three-wavelength spatial frequency domain imaging system with ambient light suppression using an 8-tap CMOS image sensor  
-   **Yu Feng** et al., Paper 12376-21, SPIE Photonics West BiOS 2023, San Francisco, United States (January 2023) [https://doi.org/10.1117/12.2649418](https://doi.org/10.1117/12.2649418)
+   **Yu Feng** et al., Paper 12376-21, *SPIE Photonics West BiOS 2023*, San Francisco, United States (January 2023) [https://doi.org/10.1117/12.2649418](https://doi.org/10.1117/12.2649418)
 
 ---
 
