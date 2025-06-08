@@ -1,7 +1,7 @@
 main:
 
   - title: Programmable Dynamic Range HDR Imaging with LED-Flicker and Motion Artifact Mitigation Using a Four-Tap CMOS Image Sensor
-    authors: **Yu Feng**, Keiichiro Kagawa, Kamel Mars, Keita Yasutomi, Shoji Kawahito
+    authors: <strong>Yu Feng</strong>, Keiichiro Kagawa, Kamel Mars, Keita Yasutomi, Shoji Kawahito
     conference_short: IEEE sensors
     conference: IEEE Sensors Journal vol. 25, no. 10, pp. 18302-18311 (March 2025).
     page: https://doi.org/10.1109/JSEN.2025.3557801
