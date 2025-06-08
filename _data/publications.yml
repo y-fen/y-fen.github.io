@@ -1,33 +1,22 @@
 main:
 
-  - title: "Programmable Dynamic Range HDR Imaging with LED‑Flicker and Motion Artifact Mitigation Using a Four‑Tap CMOS Image Sensor"
-    authors: **Yu Feng** et al.
-    journal: IEEE Sensors Journal, 2025.
-    pdf: https://doi.org/10.1109/JSEN.2025.3557801
-    bibtex: https://doi.org/10.1109/JSEN.2025.3557801
-    notes: 
-    image: #./assets/img/teaser_hdr_4tap.png
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
-  - title: "Motion‑resistant three‑wavelength spatial frequency domain imaging system with ambient light suppression using an 8‑tap CMOS image sensor"
-    authors: **Yu Feng** et al.
-    journal: Journal of Biomedical Optics, 29 (1):016006, Jan 2024.
-    pdf: https://doi.org/10.1117/1.JBO.29.1.016006
-    bibtex: https://doi.org/10.1117/1.JBO.29.1.016006
-    notes: 
-    image: #./assets/img/teaser_sfdI_8tap.png
-
-  - title: "Spatial frequency domain imaging system using a scanning micro‑mirror"
-    authors: Kenta Nakazawa, **Yu Feng** et al.
-    journal: Sensors and Actuators A: Physical, 387:116421, Jun 2025.
-    pdf: https://doi.org/10.1016/j.sna.2025.116421
-    bibtex: https://doi.org/10.1016/j.sna.2025.116421
-    notes: #—
-    image: #./assets/img/teaser_mirror_sfdI.png
-
-  - title: "Resolving Multi‑Path Interference in Compressive Time‑of‑Flight Depth Imaging with a Multi‑Tap Macro‑Pixel Computational CMOS Image Sensor"
-    authors: Horio Masaya, **Yu Feng** et al.
-    journal: Sensors, 22:2442, Mar 2022.
-    pdf: https://doi.org/10.3390/s22072442
-    bibtex: https://doi.org/10.3390/s22072442
-    notes: #—
-    image: #./assets/img/teaser_tof_macro.png
+  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
