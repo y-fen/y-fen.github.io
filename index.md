@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-##<img width="30" alt="image" src="https://github.com/user-attachments/assets/5cffa731-818f-4712-a8f5-2898ec3604e7" /> About Me
+## <img width="30" alt="image" src="https://github.com/user-attachments/assets/5cffa731-818f-4712-a8f5-2898ec3604e7" /> About Me
 
 I am a Ph.D. candidate in Nanovision Technology at Shizuoka University in Hamamatsu, Japan. My research focuses on **biomedical imaging** and **high dynamic range (HDR) imaging** using **multi-tap CMOS image sensors**.
 
