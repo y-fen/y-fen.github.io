@@ -9,12 +9,10 @@
    **Yu Feng** et al., 2025 International Image Sensor Workshop, Hyogo, Japan (June 2025)
 
 3. Multi-tap CMOS Image Sensor with Programmable Functional Exposure: Application to Structured Light Based Quantitative Tissue Imaging  
-   **Yu Feng** et al., The Optica Imaging Congress 2024, Toulouse, France (July 2024)  
-   [https://doi.org/10.1364/ISA.2024.IF4D.2](https://doi.org/10.1364/ISA.2024.IF4D.2)
+   **Yu Feng** et al., The Optica Imaging Congress 2024, Toulouse, France (July 2024)[https://doi.org/10.1364/ISA.2024.IF4D.2](https://doi.org/10.1364/ISA.2024.IF4D.2)
 
 4. Demonstration of motion-resistant three-wavelength spatial frequency domain imaging system with ambient light suppression using an 8-tap CMOS image sensor  
-   **Yu Feng** et al., Paper 12376-21, SPIE Photonics West BiOS 2023, San Francisco, United States (January 2023)  
-   [https://doi.org/10.1117/12.2649418](https://doi.org/10.1117/12.2649418)
+   **Yu Feng** et al., Paper 12376-21, SPIE Photonics West BiOS 2023, San Francisco, United States (January 2023) [https://doi.org/10.1117/12.2649418](https://doi.org/10.1117/12.2649418)
 
 ---
 
