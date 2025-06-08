@@ -4,7 +4,7 @@ main:
     authors: **Yu Feng**, Keiichiro Kagawa, Kamel Mars, Keita Yasutomi, Shoji Kawahito
     conference_short: IEEE sensors
     conference: IEEE Sensors Journal vol. 25, no. 10, pp. 18302-18311 (March 2025).
-    pdf: https://doi.org/10.1109/JSEN.2025.3557801
+    page: https://doi.org/10.1109/JSEN.2025.3557801
     image: ./assets/img/jsen.jpg
     #notes: #Early Accept
 
