@@ -8,7 +8,7 @@ I am a Ph.D. candidate in Nanovision Technology at Shizuoka University in Hamama
 
 ## Languages
 
-🇬🇧 **English:** Fluent (TOEIC 990) 🇯🇵 **Japanese:** Fluent (JLPT N1) 🇨🇳 **Chinese:** Native
+🇬🇧 **English:** Fluent (TOEIC 990) | 🇯🇵 **Japanese:** Fluent (JLPT N1) | 🇨🇳 **Chinese:** Native
 
 ## Research Interests
 
