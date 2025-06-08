@@ -12,7 +12,6 @@ I am a Ph.D. candidate in Nanovision Technology at Shizuoka University in Hamama
 - **Biomedical Imaging:** Spatial frequency domain imaging (SFDI), non-line-of-sight (NLOS) imaging, motion artifact mitigation, ambient light bias mitigation  
 - **HDR Imaging:** Charge-splitting, LED flicker mitigation (LFM), motion artifact mitigation
 
-
 ## Languages
 
 🇬🇧 **English:** Fluent (TOEIC 990) | 🇯🇵 **Japanese:** Fluent (JLPT N1) | 🇨🇳 **Chinese:** Native
