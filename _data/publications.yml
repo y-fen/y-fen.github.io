@@ -3,9 +3,17 @@ main:
   - title: Programmable Dynamic Range HDR Imaging with LED-Flicker and Motion Artifact Mitigation Using a Four-Tap CMOS Image Sensor
     authors: <strong>Yu Feng</strong>, Keiichiro Kagawa, Kamel Mars, Keita Yasutomi, and Shoji Kawahito
     conference_short: IEEE sensors
-    conference: IEEE Sensors Journal vol. 25, no. 10, pp. 18302-18311 (March 2025).
+    conference: IEEE Sensors Journal, vol. 25, no. 10, pp. 18302-18311 (March 2025).
     page: https://doi.org/10.1109/JSEN.2025.3557801
     image: ./assets/img/jsen.jpg
-    notes: HDR
+    notes: 
+  - title: Motion-resistant three-wavelength spatial frequency domain imaging system with ambient light suppression using an 8-tap CMOS image sensor
+    authors: <strong>Yu Feng</strong>, Chen Cao, Yuto Shimada, Keita Yasutomi, Shoji Kawahito, Gordon T. Kennedy, Anthony J. Durkin, and Keiichiro Kagawa
+    conference_short: JBO
+    conference: Journal of Biomedical Optics, Vol. 29, Issue 1, 016006 (January 2024).
+    page: https://doi.org/10.1117/1.JBO.29.1.016006
+    notes: SFDI
+    image: ./assets/img/jsen.jpg
+
 
 
