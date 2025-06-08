@@ -15,8 +15,6 @@
 5. Demonstration of motion-resistant three-wavelength spatial frequency domain imaging system with ambient light suppression using an 8-tap CMOS image sensor  
    **Yu Feng** et al., Paper 12376-21, *SPIE Photonics West BiOS 2023*, San Francisco, United States (January 2023) [https://doi.org/10.1117/12.2649418](https://doi.org/10.1117/12.2649418)
 
----
-
 ### 🗾 Japanese Conferences
 
 1. 4タップCMOSイメージセンサによるプログラム露光を用いた最大118.3dB広ダイナミックレンジイメージング  
