@@ -6,10 +6,14 @@ layout: homepage
 
 I am a Ph.D. candidate in Nanovision Technology at Shizuoka University in Hamamatsu, Japan. My research focuses on **biomedical imaging** and **high dynamic range (HDR) imaging** using **multi-tap CMOS image sensors**.
 
+## Languages
+
+🇬🇧 **English:** Fluent (TOEIC 990) 🇯🇵 **Japanese:** Fluent (JLPT N1) 🇨🇳 **Chinese:** Native
+
 ## Research Interests
 
 - **CMOS Image Sensors:** Sensor design and characterization, imaging system integration, image signal processing  
-- **Biomedical Imaging:** Spatial frequency domain imaging (SFDI), non-line-of-sight (NLOS) imaging, motion artifact mitigation, ambient light bias correction  
+- **Biomedical Imaging:** Spatial frequency domain imaging (SFDI), non-line-of-sight (NLOS) imaging, motion artifact mitigation, ambient light bias mitigation  
 - **HDR Imaging:** Charge-splitting, LED flicker mitigation (LFM), motion artifact mitigation (MAM)
 
 ## News
