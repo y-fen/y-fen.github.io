@@ -1,14 +1,11 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-#    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: Programmable Dynamic Range HDR Imaging with LED-Flicker and Motion Artifact Mitigation Using a Four-Tap CMOS Image Sensor
+    authors: Yu Feng et al.
+    conference_short: IEEE sensors
+    conference: IEEE Sensors Journal vol. 25, no. 10, pp. 18302-18311 (March 2025).
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    #notes: #Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
