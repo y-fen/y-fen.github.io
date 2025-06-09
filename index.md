@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in Nanovision Technology at Shizuoka University in Hamamatsu, Japan. My research focuses on **biomedical imaging** and **high dynamic range (HDR) imaging** using **multi-tap CMOS image sensors**.
+I am a Ph.D. candidate in imaging systems at Shizuoka University (expected graduation: Sep. 2026) in Hamamatsu, Japan, supervised by [Prof. Kagawa](https://idl.rie.shizuoka.ac.jp/~kagawa/). My research focuses on **biomedical imaging** and **high dynamic range (HDR) imaging** using **multi-tap CMOS image sensors**.
 
 ## 📸 Research Interests
 
