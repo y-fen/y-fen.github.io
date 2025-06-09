@@ -81,18 +81,19 @@
           <i class="fab fa-linkedin" style="font-size:1.8rem;"></i>
         </a>
         {% endif %}
+              
+        {% if site.orcid %}
+        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}">
+          <i class="ai ai-orcid" style="font-size:1.8rem;"></i>
+        </a>
+        {% endif %}
         
         {% if site.researchgate %}
         <a style="margin: 0 5px 0 0" href="{{ site.researchgate }}">
           <i class="ai ai-researchgate" style="font-size:1.8rem;"></i>
         </a>
         {% endif %}
-        
-        {% if site.orcid %}
-        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}">
-          <i class="ai ai-orcid" style="font-size:1.8rem;"></i>
-        </a>
-        {% endif %}
+
           
 
         </div>
