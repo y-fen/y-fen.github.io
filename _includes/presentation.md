@@ -25,8 +25,8 @@
 3. 8タップCMOSイメージセンサを用いた環境光・動きに強い3波長空間周波数領域イメージングシステム（ポスター）
    **馮 宇**ら、第28回医用近赤外線分光法研究会、2023年10月
 
-4. 700×540画素8タップCMOSイメージセンサを用いた3波長空間周波数領域イメージングシステム  
+5. 700×540画素8タップCMOSイメージセンサを用いた3波長空間周波数領域イメージングシステム  
    **馮 宇**ら、一般社団法人レーザー学会学術講演会第43回年次大会、2023年01月
 
-5. Demonstration of three-wavelength spatial frequency domain imaging with suppression of motion artifact and ambient light using an 8-tap CMOS image sensor  
+6. Demonstration of three-wavelength spatial frequency domain imaging with suppression of motion artifact and ambient light using an 8-tap CMOS image sensor  
    **馮 宇**ら、第28回画像センシングシンポジウム、2022年06月
