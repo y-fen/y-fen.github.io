@@ -11,7 +11,7 @@ I am a Ph.D. candidate (expected graduation: Sep. 2026) at [Shizuoka University]
 - **Biomedical Imaging:** Spatial frequency domain imaging (SFDI), non-line-of-sight (NLOS) imaging, motion artifact mitigation, ambient light bias mitigation  
 - **HDR Imaging:** Charge-splitting, LED flicker mitigation (LFM), motion artifact mitigation
 
-## 🚀 News
+## 🔥 News
 
 - **[Jun. 2025]** Our confernce paper on ambient-light-robust SFDI was accepted to *ECOB 2025*.  
 - **[Jun. 2025]** Our confernce paper on an HDR imaging system for biomedical applications was accepted to *IISW 2025*.
