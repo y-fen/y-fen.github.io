@@ -2,10 +2,10 @@
 
 ### 🌏 International Conferences (Oral)
 
-1. Room-Light Operation of a Three-Wavelength Spatial Frequency Domain Imaging System Using Pulsed Illumination and an 8-Tap CMOS Image Sensor   
+1. [Room-Light Operation of a Three-Wavelength Spatial Frequency Domain Imaging System Using Pulsed Illumination and an 8-Tap CMOS Image Sensor](https://doi.org/10.1364/ECBO.2025.Th1B.6)   
    <strong><u>Yu Feng</u></strong> et al., *European Conference on Biomedical Optics 2025*, Munich, Germany (June 2025)
 
-2. Programmable Dynamic Range Extension up to 110 dB Based on Charge-Splitting Method with 4-Tap CMOS Image Sensor  
+2. [Programmable Dynamic Range Extension up to 110 dB Based on Charge-Splitting Method with 4-Tap CMOS Image Sensor](https://doi.org/10.60928/kqtv-bwd8)  
    <strong><u>Yu Feng</u></strong> et al., *2025 International Image Sensor Workshop*, Hyogo, Japan (June 2025)
 
 3. [Multi-tap CMOS Image Sensor with Programmable Functional Exposure: Application to Structured Light Based Quantitative Tissue Imaging](https://doi.org/10.1364/ISA.2024.IF4D.2)    
