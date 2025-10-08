@@ -11,7 +11,6 @@ I am a Ph.D. candidate (expected graduation: Sep. 2026) at [Shizuoka University]
 
 ## 🚀 News
 
-- **[Jun. 2025]** Our confernce paper on ambient-light-robust SFDI was accepted to *ECOB 2025*.  
 - **[Jun. 2025]** Our confernce paper on an HDR imaging system for biomedical applications was accepted to *IISW 2025*.
 
 {% include_relative _includes/publications.md %}
