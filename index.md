@@ -10,7 +10,7 @@ I am a Ph.D. candidate (expected graduation: Sep. 2026) at [Shizuoka University]
 - **HDR Imaging:** Charge-splitting, LED flicker mitigation (LFM), motion artifact mitigation
 
 ## 🚀 News
-- **[Nov. 2025]** Our invited paper on charge-splitting HDR imaging has been published in the *IISW 2025* special issue of Sensors.
+- **[Nov. 2025]** Our selected paper on charge-splitting HDR imaging has been published in the *IISW 2025* special issue of Sensors.
 
 {% include_relative _includes/publications.md %}
 
