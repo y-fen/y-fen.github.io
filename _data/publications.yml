@@ -1,4 +1,11 @@
 main:
+  - title: Performance Characterization and Tuning of a Charge-Splitting High Dynamic Range 4-Tap CMOS Image Sensor
+    authors: <strong><u>Yu Feng</u></strong>, Keiichiro Kagawa, Kamel Mars, Keita Yasutomi, and Shoji Kawahito
+    conference_short: Sensors
+    conference: Sensors 2025, 25(22), 6953 (November 2025).
+    page: https://doi.org/10.3390/s25226953
+    image: ./assets/img/sensors.png
+    notes: HDR
   - title: Programmable Dynamic Range HDR Imaging with LED-Flicker and Motion Artifact Mitigation Using a Four-Tap CMOS Image Sensor
     authors: <strong><u>Yu Feng</u></strong>, Keiichiro Kagawa, Kamel Mars, Keita Yasutomi, and Shoji Kawahito
     conference_short: IEEE sensors
