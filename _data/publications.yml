@@ -28,12 +28,3 @@ main:
     notes: SFDI MEMS 
     image: ./assets/img/SA.jpg
 
-  - title: Resolving Multi-Path Interference in Compressive Time-of-Flight Depth Imaging with a Multi-Tap Macro-Pixel Computational CMOS Image Sensor
-    authors: Masaya Horio, <strong><u>Yu Feng</u></strong>, Tomoya Kokado, Taishi Takasawa, Keita Yasutomi, Shoji Kawahito, Takashi Komuro, Hajime Nagahara, and Keiichiro Kagawa
-    conference_short: Sensors
-    conference: Sensors 2022, 22, 2442 (March, 2022).
-    page: https://doi.org/10.3390/s22072442
-    notes: ToF
-    image: ./assets/img/sensors.png
-
-
