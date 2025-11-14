@@ -11,7 +11,6 @@ I am a Ph.D. candidate (expected graduation: Sep. 2026) at [Shizuoka University]
 
 ## 🚀 News
 - **[Nov. 2025]** Our invited paper on charge-splitting HDR imaging has been published in the *IISW 2025* special issue of Sensors.
-- **[Jun. 2025]** Our conference paper on an charge-splitting HDR imaging system was accepted for presentation at *IISW 2025*.
 
 {% include_relative _includes/publications.md %}
 
